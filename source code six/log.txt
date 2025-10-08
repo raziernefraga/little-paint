@@ -1,0 +1,1 @@
+bash: ./LittlePaint-x86_64.AppImage: Arquivo ou diretório inexistente
