@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=LittlePaint
+Exec=LittlePaint
+Icon=littlepaint
+Categories=Graphics;Painting;
+Terminal=false
+StartupNotify=true
+
