@@ -1,0 +1,31 @@
+<!-- src/res/resources.qrc -->
+<RCC>
+  <qresource prefix="/icons">
+    <file>icons/pencil.svg</file>
+    <file>icons/eraser.svg</file>
+    <file>icons/line.svg</file>
+    <file>icons/rect.svg</file>
+    <file>icons/ellipse.svg</file>
+    <file>icons/text.svg</file>
+    <file>icons/eyedropper.svg</file>
+    <file>icons/spray.svg</file>
+    <file>icons/bucket.svg</file>
+    <file>icons/select.svg</file>
+    <file>icons/undo.svg</file>
+    <file>icons/redo.svg</file>
+    <file>icons/open.svg</file>
+    <file>icons/save.svg</file>
+    <file>icons/new.svg</file>
+    <file>icons/copy.svg</file>
+    <file>icons/cut.svg</file>
+    <file>icons/paste.svg</file>
+    <file>icons/rotate.svg</file>
+    <file>icons/fliph.svg</file>
+    <file>icons/flipv.svg</file>
+    <file>icons/zoomin.svg</file>
+    <file>icons/zoomout.svg</file>
+    <file>icons/fit.svg</file>
+    <file>icons/filltoggle.svg</file>
+    <file>icons/color.svg</file>
+  </qresource>
+</RCC>
